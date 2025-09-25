@@ -118,6 +118,7 @@ shop.innerHTML=`
 `
 main.append(shop)
 
+
 let service=document.createElement("div")
 service.id="service"
 service.innerHTML=`
