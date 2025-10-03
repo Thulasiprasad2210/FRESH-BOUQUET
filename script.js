@@ -15,7 +15,6 @@ a.innerHTML=`<h3>FRESH BOUQUET</h3>
 main.append(a)
 
 let b= document.createElement("div")
-b.id="head"
 b.innerHTML=`
 <div class="head1">
 <h2>WELCOME TO FRESH BOUQUET</h2>
