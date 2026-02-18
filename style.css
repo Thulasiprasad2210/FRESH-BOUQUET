@@ -90,6 +90,7 @@ h3{
     height: 300px;
     margin: 10px;
     border-radius: 10px;
+    padding-left: 30px;
 }
 
 .h3{
@@ -114,7 +115,6 @@ h3{
 
 #shop button {
   background-color: rgb(207, 174, 174);
-  /* color: #fff; */
   border: none;
   padding: 10px 20px;
   font-size: 16px;
