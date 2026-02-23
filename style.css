@@ -26,8 +26,8 @@ body {
 }
 
 .head1 h2{
+    text-align: center;
     font-size: 40px;
-    margin-left: 25%;
     border: none;
     color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -80,9 +80,17 @@ body {
   border-radius: 10px;
 }
 
+.blog1{
+    text-align: center;
+}
+
 h3{
     text-align: center;
     text-decoration: underline;
+}
+
+#blog , .figure1 img {
+    margin: 70px;
 }
 
 .figure1 img{
@@ -90,7 +98,6 @@ h3{
     height: 300px;
     margin: 10px;
     border-radius: 10px;
-    padding-left: 30px;
 }
 
 .h3{
